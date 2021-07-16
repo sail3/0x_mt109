@@ -1,0 +1,39 @@
+1. Los units Testings se realizar a componentes concretos dentro del proyecto como funciones, estructuras, interfaces entre otros. 
+Los test de integracion se realizan al proyecto completo para detectar que no se vea afectado el flujo normal del proyecto.
+Los test de aceptacion prueban la fiabilidad del rendimiento de la aplicacion.
+
+2. Para realizar un trabajo con SCRUM se deben evaluar los requerimientos y separarlos por orden de prioridad, estimar los 
+requerimientos y hacer una planificacion de desarrollo entrega y despliegue de los requerimientos con hitos cortos tambien llamados sprints.
+La evaluacion al avance se realiza de forma constante no invasiva a travez de las reuniones diarias o "daily meetings" 
+que permiten monitorizar si se cumpliran los sprints.
+
+3. El desarrollo orientado a pruebas es una metodologia de desarrollo que se enfoca en darle prioridad a la escritura de TESTs y la 
+planificacion de estos antes que desarrollar la solucion del requerimiento, estos test deben ser los mas minuciosos posibles y abarcar
+la mayoria de aspectos a probar en la aplicacion, luego se procede a desarrollar la solucion esta debe satisfacer la mayoria de test.
+Esta metodologia es importante porque prima la deteccion de errores antes que el desarrollo de la solucion, 
+"una aplicacion bien probada rara vez tiene comportamientos extraños"
+
+4. Integracion continua. se basa en probar y asegurar que el proyecto esta funcionando bien y genera comportamientos indeseados.
+Continuous Delivery. se basa en hacer despliegues menores para que el proyecto este actualizado y se tenga codigo funcional en produccion de forma constante.
+Los beneficios que nos da esta flujo de trabajo es que nuestro proyecto estara actualizado y siempre funcional, nos da 
+seguridad que ante fallos inesperados tengamos agilidad para deshacer los ultimos despliegues o ultimos cambios.
+
+5. Las aplicaciones monoliticas se basan en centralizar la logica de negocio y tener un solo proyecto para todos los aspectos de la aplicacion.
+Las aplicaciones basadas en microservicios en contraparte, se enfocan en distribuir la logica del negocio y procesos de tal 
+forma que estos componentes distribuidos se enfocan en una actividad especifica.
+
+6. Las aplicaciones serverLess pueden ser utilizadas cuando se requiere tener alta disponibilidad y mucha carga en el proceso. al ser 
+aplicaciones que se levantan solo cuando son invocadas y tienen exclusividad en los recursos asignados, estos tienen mayor rendimiento en la ejecucion.
+
+7. 
+
+8. Drupal. di soporte al proyecto por mucho tiempo, me dio una perspectiva de trabajo comunitario. y participe con 2PR en una herramienta CLI asociada.
+GIN. primer framework en golang con el que trabaje, me dio una perspectiva mas amplia del lenguaje y acelero mis skills tomandolo como guia de desarrollo.
+Arduino. es un proyecto muy versatil ayuda a comprener algunos aspectos de interaccion humano computador.
+
+9. Rick programing golang.
+Analisis y diseño de sistemas, Kendall & Kendall.
+Patrones de diseño, Prentice hall
+
+
+
