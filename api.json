@@ -1,0 +1,28 @@
+{
+    "/employees": {
+        "get": {
+            "description": "Retorna todos los elementos de la lista de empleados.",
+            "responses": {
+                "200": {
+                    "description": "La lista de empleados",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "array",
+                                "items": {
+                                    "$ref": "#/components/schemas/employees"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "post": {},
+        "patch": {},
+        "delete": {}
+    },
+    "series": {},
+    "episodes": {},
+    "hour": {}
+}
